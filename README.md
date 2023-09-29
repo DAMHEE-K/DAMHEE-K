@@ -1,5 +1,5 @@
-### 발전하는 개발자 김담희입니다. 🐤
-성실함과 꾸준함으로 발전하는 개발자 김담희입니다. “열심히 하면 어떤 결과여도 후회는 없다”는 생각으로 모든 일에 최선을 다 하려고 노력합니다. <br />
+###  하루를 꾸준히 기록하는 개발자 🐤
+백엔드 엔지니어 김담희입니다. <br />
 #### ✍[TIL]
 <a href="https://c6llot.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/></a>
 #### ✨[SKILL]
